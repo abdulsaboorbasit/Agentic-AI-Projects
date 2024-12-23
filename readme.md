@@ -51,7 +51,7 @@ This repository is licensed under the MIT License. Feel free to use, modify, and
 ## Contact
 For any queries, feel free to reach out:
 - **Email**: abdulsaboorbasit@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/abdul-saboor-basit/)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/abdul-saboor-basit/)
 
 ---
 Happy coding and exploring agentic AI! 🚀
